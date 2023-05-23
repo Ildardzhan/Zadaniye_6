@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.039,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.318,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.801,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h=D:\kalc\calculator\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.010,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.283,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.h=D:\kalc\calculator\Unit5.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.173,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.723,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.628,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4.cbproj=D:\kalc\calculator\Project4.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.283,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.dfm=D:\kalc\calculator\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.720,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.283,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp=D:\kalc\calculator\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.295,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.005,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
